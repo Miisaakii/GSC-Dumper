@@ -1,0 +1,11 @@
+C:\Users\rstei\source\repos\dumpgsc\dumpgsc\bin\Debug\dumpgsc.exe.config
+C:\Users\rstei\source\repos\dumpgsc\dumpgsc\bin\Debug\dumpgsc.exe
+C:\Users\rstei\source\repos\dumpgsc\dumpgsc\bin\Debug\dumpgsc.pdb
+C:\Users\rstei\source\repos\dumpgsc\dumpgsc\obj\Debug\dumpgsc.csproj.AssemblyReference.cache
+C:\Users\rstei\source\repos\dumpgsc\dumpgsc\obj\Debug\dumpgsc.Form1.resources
+C:\Users\rstei\source\repos\dumpgsc\dumpgsc\obj\Debug\dumpgsc.Properties.Resources.resources
+C:\Users\rstei\source\repos\dumpgsc\dumpgsc\obj\Debug\dumpgsc.csproj.GenerateResource.cache
+C:\Users\rstei\source\repos\dumpgsc\dumpgsc\obj\Debug\dumpgsc.csproj.CoreCompileInputs.cache
+C:\Users\rstei\source\repos\dumpgsc\dumpgsc\obj\Debug\dumpgsc.csproj.CopyComplete
+C:\Users\rstei\source\repos\dumpgsc\dumpgsc\obj\Debug\dumpgsc.exe
+C:\Users\rstei\source\repos\dumpgsc\dumpgsc\obj\Debug\dumpgsc.pdb
